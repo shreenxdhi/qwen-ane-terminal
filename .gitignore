@@ -1,0 +1,7 @@
+.vendor/
+models/
+.local/
+env-anemll/
+__pycache__/
+*.py[cod]
+.DS_Store
